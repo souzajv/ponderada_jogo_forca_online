@@ -14,6 +14,13 @@ Requisitos de software são as especificações que definem o que um sistema dev
 - **RF6**: O sistema deve registrar e exibir a pontuação do jogador.
 - **RF7**: O jogo deve oferecer um modo multiplayer opcional.
 
+### 2.2 Requisitos Não Funcionais (RNF)
 
+- **RNF1**: O sistema deve ser responsivo e compatível com dispositivos móveis e desktop.
+- **RNF2**: O tempo de resposta entre cada jogada deve ser inferior a 1 segundo.
+- **RNF3**: As pontuações dos jogadores devem ser armazenadas em um banco de dados.
+- **RNF4**: O sistema deve seguir padrões de acessibilidade para garantir inclusão de usuários com deficiências.
+
+---
 
 

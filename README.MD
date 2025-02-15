@@ -32,3 +32,12 @@ O Jogo de Forca Online é um sistema web que permite que os usuários joguem par
 - **RNF4**: O sistema deve seguir padrões de acessibilidade para garantir inclusão de usuários com deficiências.
 
 ---
+
+## 3. Regras de Negócio
+
+- **RN1**: O jogador pode cometer até 6 erros antes de perder a partida.
+- **RN2**: O jogo deve utilizar um banco de palavras organizado por categorias.
+- **RN3**: O sistema deve permitir a entrada de novas palavras pelo administrador.
+
+---
+

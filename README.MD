@@ -41,3 +41,9 @@ O Jogo de Forca Online é um sistema web que permite que os usuários joguem par
 
 ---
 
+## 4. Controle de Versão
+
+| Versão | Data       | Autor      | Descrição                    |
+| ------ | ---------- | ---------- | ---------------------------- |
+| 1.0.0  | 14/02/2025 | [Seu Nome] | Versão inicial do documento. |
+
